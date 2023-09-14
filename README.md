@@ -1,2 +1,2 @@
 # First Hour in UE5
- This is my take on the "First Hour" in UE5. I used "" because unreal has 5 of those courses, each being an hour
+ This is my finished course "First Hour" in UE5 by Epic Games. I used "" because unreal has 5 of those courses, each being an hour. 
